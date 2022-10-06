@@ -1,4 +1,4 @@
-# Tour Management API
+<!-- # Tour Management API
 
 * /tours [GET]
 * /tours?page=5&limit=2 [GET]
@@ -31,4 +31,4 @@
 
 
 
-
+ -->
